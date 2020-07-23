@@ -1,0 +1,16 @@
+
+h1{
+	text-align: center;
+	border-bottom:1px solid black;
+}
+
+h4{
+	color:white;
+text-align: center;
+background-color: crimson;
+padding: 10px 0;
+}
+
+.clearfix{
+	margin-bottom:40px;
+}
